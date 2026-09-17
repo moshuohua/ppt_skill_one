@@ -1,0 +1,14 @@
+interface:
+  display_name: i2p-666
+  short_description: 将深度战略洞察与高价值图示制作成领导汇报单页PPT
+  brand_color: '#C7000B'
+  default_prompt: 使用 $i2p-666，将以下材料提炼成洞察深入、证据可靠、图示高价值且适合领导快速阅览的单页可编辑PPT。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

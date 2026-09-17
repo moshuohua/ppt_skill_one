@@ -1,0 +1,54 @@
+{
+  "canvas": {
+    "width": 1280,
+    "height": 720,
+    "masterScale": 3,
+    "safeMarginPx": 40,
+    "safeMarginPt": 30
+  },
+  "colors": {
+    "primary": "#C7000B",
+    "text": "#000000",
+    "support": "#8C8C8C",
+    "chartMid": "#D53C44",
+    "chartLight": "#F1B4B6",
+    "background": "#FFFFFF"
+  },
+  "fontSizesPt": {
+    "title": 24,
+    "subhead": 18,
+    "body": 14,
+    "source": 10
+  },
+  "fontSizesPx": {
+    "title": 32,
+    "subhead": 24,
+    "body": 18.6667,
+    "source": 13.3333
+  },
+  "typography": {
+    "fontFamily": "Microsoft YaHei",
+    "titleBold": true,
+    "titleManualBreaks": false,
+    "titlePreferredVisualUnits": [50, 70],
+    "oneLineContentTopPx": 132,
+    "twoLineContentTopPx": 158
+  },
+  "sourceFooter": {
+    "optional": true,
+    "x": 40,
+    "bottom": 680,
+    "fontPt": 10,
+    "italic": true,
+    "color": "#8C8C8C"
+  },
+  "limits": {
+    "slides": 1,
+    "coreClaims": 1,
+    "supportingClaims": 3,
+    "listItems": 3,
+    "titleLines": 2,
+    "bodyChineseCharacters": 220,
+    "chartColorSteps": 3
+  }
+}
